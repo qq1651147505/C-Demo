@@ -1,0 +1,19 @@
+﻿生成启动时间为 2021/8/31 18:40:57。
+     1>项目“E:\C代码\三子棋game\三子棋game\三子棋game.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\C test\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>e:\c代码\三子棋game\三子棋game\game.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\c test\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>e:\c代码\三子棋game\三子棋game\game.c(88): warning C4101: “y”: 未引用的局部变量
+     1>e:\c代码\三子棋game\三子棋game\game.c(87): warning C4101: “x”: 未引用的局部变量
+     1>e:\c代码\三子棋game\三子棋game\game.c(110): warning C4101: “j”: 未引用的局部变量
+       Link:
+         D:\C test\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C代码\三子棋game\Debug\三子棋game.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C代码\三子棋game\Debug\三子棋game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C代码\三子棋game\Debug\三子棋game.lib" /MACHINE:X86 Debug\game.obj
+         Debug\sanziqi.obj
+         三子棋game.vcxproj -> E:\C代码\三子棋game\Debug\三子棋game.exe
+     1>已完成生成项目“E:\C代码\三子棋game\三子棋game\三子棋game.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
