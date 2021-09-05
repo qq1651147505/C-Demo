@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/9/4 22:41:26。
+     1>项目“E:\C代码\C Demo4\C Demo4\C Demo4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\C test\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "C Demo4.c"
+         C Demo4.c
+     1>e:\c代码\c demo4\c demo4\c demo4.c(370): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\c代码\c demo4\c demo4\c demo4.c(371): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         D:\C test\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C代码\C Demo4\Debug\C Demo4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C代码\C Demo4\Debug\C Demo4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C代码\C Demo4\Debug\C Demo4.lib" /MACHINE:X86 "Debug\C Demo4.obj"
+         C Demo4.vcxproj -> E:\C代码\C Demo4\Debug\C Demo4.exe
+     1>已完成生成项目“E:\C代码\C Demo4\C Demo4\C Demo4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34
